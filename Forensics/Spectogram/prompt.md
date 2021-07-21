@@ -4,4 +4,4 @@ Someone passed on this audio recording saying it has important information about
 _by Rob H_
 
 ## Hint
-Some well type google-fu concerning will serve you well.
+Some well typed google-fu will serve you well.
