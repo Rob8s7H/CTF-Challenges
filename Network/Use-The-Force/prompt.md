@@ -1,4 +1,4 @@
-# DestroyerMoon
+# Use The Force
 Aid us! you're our only chance!
 We need to get the plans for the DestroyerMoon. Get on the evil Duke Vater's computer and get them.
 If you need them, use these user and password lists. Many Baffons perished getting this information to us.
