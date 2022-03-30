@@ -1,0 +1,12 @@
+version: "3"
+
+services: 
+    shady:
+        tty: true
+        networks:
+        - default
+        ports:
+        - 8822:22/tcp
+        build:
+            context: .
+            dockerfile: Dockerfile

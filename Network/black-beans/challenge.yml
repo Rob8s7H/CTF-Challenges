@@ -1,0 +1,15 @@
+name: Shadow Beans
+category: "Networking"
+description: 
+I was able to find a low level username 'scotty' and password 'beanmeup!', and they seem to be some shady access permission. I bet we could own root!
+
+For this challange you can run nmap against ctf.isss.io:8822
+
+  By Rob Hill (@Rob H on discord)
+value: 450
+type: standard
+connection_info: "http://ctf.isss.io:8822"
+flags:
+    - utflag{black_coffee_is_best}
+files:
+state: hidden
