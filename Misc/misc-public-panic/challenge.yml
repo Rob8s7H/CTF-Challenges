@@ -1,0 +1,14 @@
+name: "Public Panic"
+author: "Rob H"
+category: "Miscellaneous"
+description: 
+I don't think this company's security is all that great. Let's see if we find anything by doing some open source intellegence.
+
+  By Robert Hill (@Rob H on discord)
+value: 350
+type: standard
+connection_info: "misc.utctf.live:8756"
+flags:
+    - utflag{situational_awareness_is_key}
+files:
+state: hidden
