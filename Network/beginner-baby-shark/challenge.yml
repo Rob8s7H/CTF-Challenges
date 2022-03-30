@@ -1,0 +1,15 @@
+name: "Baby Shark Pt 1"
+author: "Rob H"
+category: Beginner
+description: "I think someone downloaded something from an http site. I'm super curious about what it was. Let's go hunt! (doo, doo, doo, doo, doo, doo)"
+
+
+  By Robert Hill (@Rob H on discord)
+value: 100
+type: standard
+connection_info: nc
+flags:
+  - utflag{eye_c_what_u_c}
+files:
+  - baby_shark1.pcap
+state: hidden
