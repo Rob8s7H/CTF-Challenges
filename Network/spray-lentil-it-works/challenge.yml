@@ -1,0 +1,16 @@
+name: Spray Lentil It Works!
+category: "Networking"
+description: 
+I found this list of names, but it doesn't follow any standard naming conventions for users. I do know the default password is 'Password123!' though!
+
+For this challange you can run nmap against ctf.isss.io:8722
+
+  By Rob Hill (@Rob H on discord)
+value: 300
+type: standard
+connection_info: "http://ctf.isss.io:8722"
+flags:
+    - utflag{Im_soy_glad_you_got_this}
+files:
+  - userslist
+state: hidden
