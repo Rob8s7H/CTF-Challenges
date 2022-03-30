@@ -1,0 +1,16 @@
+name: "Public Panic P2"
+author: "Rob H"
+category: "Miscellaneous"
+description: 
+With the information we got from the previous problem we can surely get on their system!
+
+For this challange you can run nmap against umisc.utctf.live:8622 and only misc.utctf.live:8622 
+
+  By Robert Hill (@Rob H on discord)
+value: 450
+type: standard
+connection_info: "misc.utctf.live:8622"
+flags:
+    - utflag{conventions_knowledge_for_the_win}
+files:
+state: hidden
