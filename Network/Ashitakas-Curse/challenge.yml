@@ -1,0 +1,13 @@
+name: "Ashitaka's Curse"
+category: Network
+description: |
+  Connect via ssh and help Ashitaka get privilege escalation before his curse becomes too much to bear.
+  Ashitaka's password: ImHuman
+  By Rob H (@ARob H on discord)
+author: Rob H
+value: 250
+type: standard
+connection_info: ssh Ashitaka@ctf.isss.io -p 8722
+flags:
+  - utflag{I'm-a-wolf-you-hear!?}
+state: hidden
