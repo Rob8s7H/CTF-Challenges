@@ -1,0 +1,12 @@
+name: "Pom Poko Ports"
+category: Network
+description: |
+  Those sneaky tankuki have been screwing around with the ports again hiding messages. See if you can't connect to port 8788 and see what the message is.
+  By Rob H (@Rob H on discord)
+author: Rob H
+value: 200
+type: standard
+connection_info: ctf.isss.io:8788
+flags:
+  - utflag{P0m-p0k0-p0m-P0m}
+state: hidden
